@@ -2,7 +2,7 @@
 
 
 # Imagem do Projeto
-![imagem do projeto](images/Screenshot_20240825_192109_Samsung_Internet.jpg "Link Bio RM Dev 2.0")
+![imagem do projeto]([images/Screenshot_20240825_192109_Samsung_Internet.jpg](https://raw.githubusercontent.com/Leonardobrzz/Portfolio_Pessoal/main/Screenshot_20240825_192109_Samsung%20Internet.jpg) "Link Bio RM Dev 2.0")
 
 
 # Meus Links - Leonardo Alves│Dev
