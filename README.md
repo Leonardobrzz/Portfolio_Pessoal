@@ -2,7 +2,7 @@
 
 
 # Imagem do Projeto
-![Descrição da Imagem](https://raw.githubusercontent.com/Leonardobrzz/Portfolio_Pessoal/main/Screenshot_20240825_192109_Samsung%20Internet.jpg)
+![Portfolio](https://raw.githubusercontent.com/Leonardobrzz/Portfolio_Pessoal/main/Screenshot_20240825_192109_Samsung%20Internet.jpg)
 
 
 
