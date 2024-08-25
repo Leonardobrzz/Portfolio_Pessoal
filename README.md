@@ -5,6 +5,7 @@
 ![imagem do projeto](./Screenshot_20240825_192109_Samsung_Internet.jpg "Link Bio RM Dev 2.0")
 
 
+
 # Meus Links - Leonardo Alves│Dev
 
 Este é um site pessoal desenvolvido por Leonardo Alves para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
